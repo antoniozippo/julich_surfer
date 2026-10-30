@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.ruff_cache/
+packaging/AppIcon.icns
+packaging/AppIcon.iconset/
+packaging/icon-preview.png
+packaging/icon-preview-128.png
+.cloud-attachments/
+.freebuff/

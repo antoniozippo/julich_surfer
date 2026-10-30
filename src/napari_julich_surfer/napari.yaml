@@ -1,0 +1,10 @@
+name: napari-julich-surfer
+display_name: Julich 3D Brain Surfer
+contributions:
+  commands:
+    - id: napari-julich-surfer.widget
+      title: Create Jülich 3D Brain Surfer
+      python_name: napari_julich_surfer._widget:JulichSurferWidget
+  widgets:
+    - command: napari-julich-surfer.widget
+      display_name: Jülich 3D Brain Surfer
