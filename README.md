@@ -8,7 +8,8 @@ searchable list and they light up as coloured 3-D surfaces in the viewer, while 
 ## Quick start
 
 ```bash
-# from this directory
+git clone https://github.com/antoniozippo/julich_surfer
+cd julich_surfer
 uv sync --extra qt
 uv run julich-surfer          # or: uv run python -m napari_julich_surfer
 ```
